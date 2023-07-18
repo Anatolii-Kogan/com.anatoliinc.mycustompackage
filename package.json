@@ -1,0 +1,22 @@
+{
+  "name": "com.anatoliinc.mycustompackage",
+  "version": "1.0.0",
+  "displayName": "My custom package",
+  "description": "This package is empty. Just learning",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "author": {
+    "name": "Anatolii",
+    "email": "kogan.a@azurgames.com",
+    "url": "https://github.com/Anatolii-Kogan"
+  },
+  "samples" :[
+    {
+        "displayName": "Sample prefab",
+        "description": "Cube with do nothing script",
+        "path" : "Samples~/Sample prefabs"
+    }
+  ],
+  "hideInEditor": false
+}
