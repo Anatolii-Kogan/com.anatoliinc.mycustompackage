@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "displayName": "My custom package",
   "description": "This package is empty. Just learning",
-  "documentationUrl": "https://example.com/",
-  "changelogUrl": "https://example.com/changelog.html",
-  "licensesUrl": "https://example.com/licensing.html",
   "author": {
     "name": "Anatolii",
     "email": "kogan.a@azurgames.com",
@@ -18,5 +15,9 @@
         "path" : "Samples~/Sample prefabs"
     }
   ],
+  "pablishConfig":
+  {
+    "registry": "https://github.com/Anatolii-Kogan/com.anatoliinc.mycustompackage.git"
+  },
   "hideInEditor": false
 }
