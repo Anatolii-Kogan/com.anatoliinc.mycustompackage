@@ -1,6 +1,6 @@
 {
   "name": "com.anatoliinc.mycustompackage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "My custom package",
   "description": "This package is empty. Just learning",
   "author": {
